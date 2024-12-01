@@ -1,0 +1,3 @@
+[submodule "themes/drozd-dev-theme"]
+	path = themes/drozd-dev-theme
+	url = git@github.com:drozd-dev/drozd-dev-theme.git

@@ -1,4 +1,4 @@
 baseURL = 'https://drozd.dev/'
 languageCode = 'en-us'
 title = 'Krzysztof Drozd - Online/Dev'
-theme = drozd-dev-theme
+theme = 'drozd-dev-theme'
